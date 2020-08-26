@@ -1,4 +1,4 @@
-#journalDate {
+ #journalDate {
     display: flex;
     flex-direction: column;
 }
@@ -15,5 +15,5 @@
 
 #mood{
     display: flex;
-    flex-direction: column;
-}
+    flex-direction: column; 
+} 
